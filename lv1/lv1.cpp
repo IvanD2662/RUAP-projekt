@@ -5,7 +5,9 @@
 
 int main()
 {
-    std::cout << "Pozdrav od !\n";
+ 
+    std::cout << "Pozdrav od Ivan Demsic!\n";
+>>>>>>> 46d3b74 (drugi commit)
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
